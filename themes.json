@@ -1,16 +1,33 @@
-[
-  {
-    "name": "Among Us",
-    "description": "Passcode theme Among Us cực ngầu.",
-    "url": "themes/amongus.zip",
-    "preview": "previews/amongus.png",
-    "authors": "EnsWilde Team"
-  },
-  {
-    "name": "Neon Cyberpunk",
-    "description": "Phím bấm phát sáng phong cách tương lai.",
-    "url": "themes/neon.zip",
-    "preview": "previews/neon.png",
-    "authors": "EnsWilde Team"
-  }
-]
+{
+  "identifier": "com.lsnguyen.enswilde",
+  "name": "EnsWilde Repository",
+  "caption": "Nguồn chính thức cung cấp Passcode Theme của EnsWilde.",
+  "icon": "https://raw.githubusercontent.com/nguyenls3005-cell/EnsWilde-Repository/refs/heads/main/assets/IMG_0200.jpeg",
+  "packages": [
+    {
+      "identifier": "com.enswilde.theme.amongus",
+      "name": "Among Us",
+      "caption": "When the impostor is sus",
+      "icon": "https://raw.githubusercontent.com/nguyenls3005-cell/EnsWilde-Repository/refs/heads/main/assets/IMG_0215.pngamongus.png",
+      "author": "Created by @NoW4U2Kid on GitHub",
+      "download": "https://raw.githubusercontent.com/SerStars/nugget-wallpapers/main/wallpapers/passtheme/AmongUsKeylock.passthm.zip",
+      "category": "Pass Theme",
+      "tags": ["Pass Theme", "iOS", "EnsWilde"],
+      "screenshots": [
+        "https://raw.githubusercontent.com/nguyenls3005-cell/EnsWilde-Repository/refs/heads/main/assets/IMG_0215.png"
+      ]
+    },
+    {
+      "identifier": "com.enswilde.theme.neon",
+      "name": "Neon Cyberpunk",
+      "caption": "Phím bấm phát sáng phong cách tương lai.",
+      "icon": "https://raw.githubusercontent.com/nguyenls3005-cell/EnsWilde-Repository/main/previews/neon.png",
+      "author": "EnsWilde Team",
+      "download": "https://raw.githubusercontent.com/nguyenls3005-cell/EnsWilde-Repository/main/themes/neon.zip",
+      "category": "Apple",
+      "tags": ["Neon", "Dark", "AI"],
+      "banner": "",
+      "screenshots": []
+    }
+  ]
+}
