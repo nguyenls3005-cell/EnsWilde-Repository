@@ -44,12 +44,12 @@
   "icon": "icon cua repo",
   "themes": [
     {
-      "id": 26,
-      "name": "Among Us",
-      "description": "When the impostor is sus.",
-      "url": "package/AmongUsKeylock.passthm",
-      "preview": "assets/IMG_0322.png",
-      "authors": "@NoW4U2Kid on GitHub"
+      "id": x,
+      "name": "ten cua theme",
+      "description": "mo ta theme",
+      "url": "noi tai theme ve",
+      "preview": "hinh minh hoa",
+      "authors": "ten tac gia"
     }
   ]
 }
