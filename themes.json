@@ -8,184 +8,184 @@
             "name": "Among Us",
             "description": "When the impostor is sus.",
             "url": "package/AmongUsKeylock.passthm",
-            "preview": "previews/passtheme/images/among_us.png",
+            "preview": "assets/IMG_0322.png",
             "authors": "@NoW4U2Kid on GitHub"
         },
         {
             "id": 25,
             "name": "Adobe Dog",
             "description": "Funny dog from adobe stock photos.",
-            "url": "wallpapers/passtheme/BEST_adobe_dog.passthm",
-            "preview": "previews/passtheme/images/adobe_dog.png",
+            "url": "package/BEST_adobe_dog.passthm",
+            "preview": "assets/IMG_0321.png",
             "authors": "@LeminLimez on GitHub"
         },
         {
             "id": 24,
             "name": "Colored Numbers",
             "description": "A colorful key combination.",
-            "url": "wallpapers/passtheme/colored_numbers.passthm",
-            "preview": "previews/passtheme/images/colored_numbers.png",
+            "url": "package/colored_numbers.passthm",
+            "preview": "assets/IMG_0323.png",
             "authors": "Skwad29#2999 on Discord"
         },
         {
             "id": 23,
             "name": "Rainbow Doodle",
             "description": "A colorful key combination.",
-            "url": "wallpapers/passtheme/Rainbow_Doodle.passthm",
-            "preview": "previews/passtheme/images/rainbow_doodle.png",
+            "url": "package/Rainbow_Doodle.passthm",
+            "preview": "assets/IMG_0324.png",
             "authors": "Twilight System#4820 on Discord"
         },
         {
             "id": 22,
             "name": "1.1.1.1",
             "description": "DNS never looked this good.",
-            "url": "wallpapers/passtheme/cloudflare.passthm",
-            "preview": "previews/passtheme/images/cloudflare.png",
+            "url": "package/Cloudflare.passthm",
+            "preview": "assets/IMG_0325.png",
             "authors": "@YangJiii on GitHub"
         },
         {
             "id": 21,
             "name": "Roman Numerals",
             "description": "Rome.",
-            "url": "wallpapers/passtheme/roman_numerals.passthm",
-            "preview": "previews/passtheme/images/roman_numerals_preview.png",
+            "url": "package/roman_numerals.passthm",
+            "preview": "assets/IMG_0326.png",
             "authors": "martinn#2028 on Discord"
         },
         {
             "id": 20,
             "name": "Minecraft",
             "description": "Cubic fun.",
-            "url": "wallpapers/passtheme/minecraft.passthm",
-            "preview": "previews/passtheme/images/minecraft_preview.png",
+            "url": "package/minecraft.passthm",
+            "preview": "assets/IMG_0327.png",
             "authors": "Kalphalus#5952 on Discord"
         },
         {
             "id": 19,
-            "name": "Consoles",
-            "description": "A retro style of your favorite consoles.",
-            "url": "wallpapers/passtheme/consoles.passthm",
-            "preview": "previews/passtheme/images/consoles.png",
-            "authors": "Dinervc#2921 on Discord"
+            "name": "Cute Cat",
+            "description": "Cuteee",
+            "url": "package/Cutecat.passthm",
+            "preview": "assets/IMG_0328.png",
+            "authors": "Gasetinh on Telegram"
         },
         {
             "id": 18,
             "name": "Dragon Ball",
             "description": "Dragon ball something.",
-            "url": "wallpapers/passtheme/DragonBallPass.passthm",
-            "preview": "previews/passtheme/images/dragon_ball.png",
+            "url": "package/DragonBallPass.passthm",
+            "preview": "assets/IMG_0329.png",
             "authors": "@YangJiii on GitHub"
         },
         {
             "id": 17,
             "name": "Digital",
             "description": "High-tech keys for high-tech people.",
-            "url": "wallpapers/passtheme/Digital.passthm",
-            "preview": "previews/passtheme/images/digital.png",
+            "url": "package/Digital.passthm",
+            "preview": "assets/IMG_0330.png",
             "authors": "Xenon#1539 on Discord"
         },
         {
             "id": 16,
             "name": "Dark Red and Black",
             "description": "Dark red and black.",
-            "url": "wallpapers/passtheme/dark_red_and_black.passthm",
-            "preview": "previews/passtheme/images/dark_red_and_black_preview.png",
+            "url": "package/dark_red_and_black.passthm",
+            "preview": "assets/IMG_0331.png",
             "authors": "Kalphalus#5952 on Discord"
         },
         {
             "id": 15,
             "name": "Monopad",
             "description": "Simple monospaced passcode theme.",
-            "url": "wallpapers/passtheme/Monopad.passthm",
-            "preview": "previews/passtheme/images/monopad.png",
+            "url": "package/Monopad.passthm",
+            "preview": "assets/IMG_0332.png",
             "authors": "@BomberFish on GitHub"
         },
         {
             "id": 14,
             "name": "Neon",
             "description": "Feel the color.",
-            "url": "wallpapers/passtheme/neon.passthm",
-            "preview": "previews/passtheme/images/neon_preview.png",
+            "url": "package/neon.passthm",
+            "preview": "assets/IMG_0333.png",
             "authors": "@YangJiii on GitHub"
         },
         {
             "id": 13,
             "name": "Neon 2",
             "description": "Feel the color again.",
-            "url": "wallpapers/passtheme/neon2.passthm",
-            "preview": "previews/passtheme/images/neon2_preview.png",
+            "url": "package/neon2.passthm",
+            "preview": "assets/IMG_0334.png",
             "authors": "@YangJiii on GitHub"
         },
         {
             "id": 12,
             "name": "Simple Dark",
             "description": "A simple dark passcode theme.",
-            "url": "wallpapers/passtheme/simple_dark.passthm",
-            "preview": "previews/passtheme/images/simple_dark.png",
+            "url": "package/simple_dark.passthm",
+            "preview": "assets/IMG_0335.png",
             "authors": "@c22dev on GitHub"
         },
         {
             "id": 11,
             "name": "MinePass (Rainbow)",
             "description": "",
-            "url": "wallpapers/passtheme/MinePass_Rainbow.passthm",
-            "preview": "previews/passtheme/images/MinePass_Rainbow_preview.png",
+            "url": "package/MinePass_Rainbow.passthm",
+            "preview": "assets/IMG_0336.png",
             "authors": "AIslayer#7428 on Discord"
         },
         {
             "id": 10,
             "name": "MinePass (Nightly)",
             "description": "",
-            "url": "wallpapers/passtheme/MinePass_Nightly.passthm",
-            "preview": "previews/passtheme/images/MinePass_Nightly_preview.png",
+            "url": "package/MinePass_Nightly.passthm",
+            "preview": "assets/IMG_0337.png",
             "authors": "AIslayer#7428 on Discord"
         },
         {
             "id": 9,
             "name": "Simple Dots",
             "description": "",
-            "url": "wallpapers/passtheme/Simple_Dots.passthm",
-            "preview": "previews/passtheme/images/Simple_Dots_preview.png",
+            "url": "package/Simple_Dots.passthm",
+            "preview": "assets/IMG_0338.png",
             "authors": "Tuchan#0001 on Discord"
         },
         {
             "id": 8,
             "name": "Linux Distros",
             "description": "",
-            "url": "wallpapers/passtheme/Linux_Distros.passthm",
-            "preview": "previews/passtheme/images/Linux_Distros_preview.png",
+            "url": "package/Linux_Distros.passthm",
+            "preview": "assets/IMG_0340.png",
             "authors": "AZGDO#6010 on Discord"
         },
         {
             "id": 7,
-            "name": "Ice Cream",
+            "name": "Doraemon",
             "description": "",
-            "url": "wallpapers/passtheme/IceCream.passthm",
-            "preview": "previews/passtheme/images/IceCream_preview.png",
-            "authors": "AIslayer#7428 on Discord"
+            "url": "package/Doraemon.3105pass",
+            "preview": "assets/IMG_0342.png",
+            "authors": "Gasetinh on Telegram"
         },
         {
             "id": 6,
-            "name": "OSU! Hit Circle",
+            "name": "Hachiware",
             "description": "",
-            "url": "wallpapers/passtheme/OSU!_Hit_Circle.passthm",
-            "preview": "previews/passtheme/images/OSU!_Hit_Circle_preview.png",
-            "authors": "doraa#2828 on Discord"
+            "url": "package/Hachiware.passthm",
+            "preview": "assets/IMG_0341.png",
+            "authors": "Gasetinh on Telegram"
         },
         {
             "id": 5,
-            "name": "Viva Pass",
+            "name": "Shin",
             "description": "",
-            "url": "wallpapers/passtheme/Viva_Pass.passthm",
-            "preview": "previews/passtheme/images/Viva_Pass_preview.png",
-            "authors": "AIslayer#7428 on Discord"
+            "url": "package/TelephonyUI-shin.3105pass",
+            "preview": "assets/IMG_0343.png",
+            "authors": "Gasetinh on Telegram"
         },
         {
             "id": 4,
-            "name": "Pokeball Pass 🔴🔵🟡🟣",
+            "name": "Pixel",
             "description": "",
-            "url": "wallpapers/passtheme/Pokeball_Pass.passthm",
-            "preview": "previews/passtheme/images/Pokeball_Pass_preview.png",
-            "authors": "@The_Nobl3_Guy on Twitter"
+            "url": "package/Fixpixel.3105pass",
+            "preview": "assets/IMG_0344.png",
+            "authors": "Gasetinh on Telegram"
         },
         {
             "id": 3,
